@@ -1,3 +1,18 @@
-img {
-    width: 100vw;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: Ariel, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: aqua;
+
+}
+
+.landpage {
+    background-image: url('../../assets/brennan-burling-335455-unsplash.jpg');
+    height: 100vh;
 }
